@@ -12,7 +12,10 @@ REQUIRED_PACKAGES = [
     'matplotlib==3.2.1',
     'seaborn==0.10.1',
     # request
-    'urllib3==1.24.3']
+    'urllib3==1.24.3',
+    # beautifulsoup
+    'bs4==4.9.3'
+    ]
 
 setup(
     name='WagonIntroToDS',
