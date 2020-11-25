@@ -14,7 +14,7 @@ REQUIRED_PACKAGES = [
     # request
     'urllib3==1.24.3',
     # beautifulsoup
-    'bs4==4.9.3'
+    'beautifulsoup4==4.9.3'
     ]
 
 setup(
