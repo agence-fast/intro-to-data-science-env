@@ -15,6 +15,8 @@ REQUIRED_PACKAGES = [
     'urllib3==1.24.3',
     # beautifulsoup
     'beautifulsoup4==4.9.3'
+    # scikit-learn
+    'scikit-learn==0.22.1'
     ]
 
 setup(
