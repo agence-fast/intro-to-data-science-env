@@ -10,7 +10,7 @@ REQUIRED_PACKAGES = [
     'pandas==1.1.2',
     # viz
     'matplotlib==3.2.1',
-    'seaborn==0.10.1',
+    'seaborn==0.11.1',
     # request
     'urllib3==1.24.3',
     # beautifulsoup
